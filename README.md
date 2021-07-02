@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @volribeiro
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning English
-- 💞️ I’m looking to collaborate on inovation 
+- 👀 I’m interested in technology, music, cars and entrepreneurship
+- 🌱 I’m currently learning English and hacking tools
+- 💞️ I’m looking to collaborate on innovation 
 - 📫 How to reach me https://www.linkedin.com/in/volvelier/
 
 <!---
